@@ -2,5 +2,5 @@
 ---
 ### Maquinas HTB
 
-- [[Maquinas/Perfection/Follow-up|Perfection]]
+- [Perfection](Maquinas/Perfection/Follow-up.md)
 
